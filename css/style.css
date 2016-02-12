@@ -1447,12 +1447,13 @@ border: 1px solid #64A633;
 
 /* Portfolio Items */
 
+
 #portfolio_wrapper {
-    position: relative;
-    padding: 0;
-    width: 90%;
-    margin: 0 12%;
-    display: block;
+  position: relative;
+  padding: 50%;
+  width: 90%;
+  margin: 0 12% 0 12%;
+  display: block;
 }
 
 #portfolio_wrapper .one-four {
