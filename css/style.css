@@ -1046,6 +1046,7 @@ border: 1px solid #64A633;
 ---------------------------------*/
 .page_section.contact {
     padding: 90px 0 40px;
+    animation-name: fadeInLeft;
 }
 
 .contact_section {
