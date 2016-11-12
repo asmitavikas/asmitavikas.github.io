@@ -5,7 +5,7 @@ Any help: webthemez@gmail.com
 Licence: Creative Commons Attribution 3.0** - http://creativecommons.org/licenses/by/3.0/
 */
 @charset "utf-8";
-@import url(http://fonts.googleapis.com/css?family=Raleway:800,700,400);
+@import url(http://fonts.googleapis.com/css?family=helvetica:800,700,400);
 @import url(http://fonts.googleapis.com/css?family=Signika:400,600);
 
 /* Reset
@@ -199,7 +199,7 @@ figure.effect-oscar:hover img {
 ---------------------------------*/
 body {
     background: #fff;
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'helvetica', sans-serif;
     font-size: 14px;
     font-weight: normal;
     color: #888888;
@@ -209,7 +209,7 @@ body {
 h2 {
     /*font-size: 38px;*/
     color: #fefeff;
-    font-family: 'Raleway', sans-serif;
+    font-family: 'helvetica', sans-serif;
     font-weight: normal;
     margin: 0px 0 25px 0;
     text-align: center;
@@ -217,7 +217,7 @@ h2 {
 }
 
 h3 {
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'helvetica', sans-serif;
     font-weight: 600;
     color: #222222;
     font-size: 18px;
@@ -226,8 +226,8 @@ h3 {
 
 h6 {
     font-size: 16px;
-    color: #727878;
-    font-family: 'Open Sans', sans-serif;
+    color: #ffffff;
+    font-family: 'helvetica', sans-serif;
     font-weight: 400;
     text-align: center;
     margin: 0 0 60px 0;
@@ -308,7 +308,7 @@ p {
     display: block;
     font-size: 14px;
     color: #222222;
-    font-family: 'Raleway', sans-serif;
+    font-family: 'helvetica', sans-serif;
     text-decoration: none;
     text-transform: uppercase;
     font-weight: 600;
@@ -398,11 +398,12 @@ p {
 
 .top_left_cont h2 {
     font-size: 40px;
-    color: #FFF;
+    color: #ee7138;
     margin: 0 0 26px 0;
-    font-family: 'Raleway', sans-serif;
+    font-family: 'helvetica', sans-serif;
     text-align: center;
     line-height: 70px;
+    font-weight: 700;
 }
 
 .top_left_cont h2 strong {
@@ -424,7 +425,7 @@ letter-spacing: 1px;
 }
 
 a.read_more, a.read_more2 {
-    font-family: 'Raleway', sans-serif;
+    font-family: 'helvetica', sans-serif;
     display: block;
     font-size: 16px;
     width: 178px;
@@ -474,6 +475,7 @@ a.read_more:hover {
 }
 #skills h2{
   color: #fff;
+  font-family: 'helvetica', sans-serif;
 
 }
 .skills_wrapper {
@@ -527,7 +529,7 @@ a.read_more:hover {
 }
 
 .skills_block h3 {
-    font-family: 'Raleway', sans-serif;
+    font-family: 'helvetica', sans-serif;
     font-weight: 600;
     font-size: 25px;
     color: #fff;
@@ -615,7 +617,7 @@ a.contact_btn {
     font-size: 16px;
     color: #ED5441;
     border-radius: 3px;
-    font-family: 'Raleway', sans-serif;
+    font-family: 'helvetica', sans-serif;
     font-weight: 600;
     border: 2px solid #ED5441;
     transition: all 0.2s ease-in-out;
@@ -1425,8 +1427,8 @@ border: 1px solid #64A633;
 }
 
 .section-title h2 {
-    color: #222222;
-    font-family: 'Raleway', sans-serif;
+    color: #f07255;
+    font-family: 'helvetica', sans-serif;
     font-size: 34px;
     letter-spacing: -1px;
     margin: 0 0 15px;
@@ -1437,7 +1439,7 @@ border: 1px solid #64A633;
 .section-title span {
     display: block;
     color: #888888;
-    font-family: 'Open Sans',sans-serif;
+    font-family: 'helvetica',sans-serif;
     font-size: 16px;
     font-weight: 400;
     margin: 0 0 60px;
@@ -1699,7 +1701,7 @@ border: 1px solid #64A633;
 .project-section-title h1 {
     margin-bottom: 5px!important;
     letter-spacing: 1px;
-    font-family: 'Raleway', sans-serif;
+    font-family: 'helvetica', sans-serif;
 }
 
 .project-page {
