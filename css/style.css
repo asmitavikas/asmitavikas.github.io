@@ -208,7 +208,7 @@ body {
 
 h2 {
     /*font-size: 38px;*/
-    color: #222222;
+    color: #fefeff;
     font-family: 'Raleway', sans-serif;
     font-weight: normal;
     margin: 0px 0 25px 0;
@@ -226,7 +226,7 @@ h3 {
 
 h6 {
     font-size: 16px;
-    color: #888888;
+    color: #727878;
     font-family: 'Open Sans', sans-serif;
     font-weight: 400;
     text-align: center;
@@ -362,7 +362,7 @@ p {
 .top_cont_outer {
     position: relative;
     height:650px;
-    background: url('../img/abstract-free-wallpaper2.jpg') no-repeat bottom fixed;
+    background: url('../img/about1.jpg') no-repeat bottom fixed;
     -webkit-background-size: cover; /* pour anciens Chrome et Safari */
     background-size: cover; /* version standardisée */
 }
@@ -470,7 +470,7 @@ a.read_more:hover {
 
 #skills {
     padding: 60px 0px;
-    background: rgba(240, 110, 40, 0.84);
+    background: rgba(51, 136, 204, 0.61);
 }
 #skills h2{
   color: #fff;
@@ -562,7 +562,7 @@ color:#fff;
 }
 
 .inner_section {
-    padding: 0px;
+    padding: 40px;
 }
 
 .skills-list {
@@ -639,7 +639,7 @@ a.contact_btn:hover {
 
 #Portfolio {
     padding: 60px 0px;
-    background: #E9E9E9;
+    background: rgba(243, 239, 224, 0.58);
 }
 
 .Portfolio-nav {
@@ -736,7 +736,7 @@ img {
 
 #clients {
     padding: 60px 0px;
-    background:  rgba(240, 110, 40, 0.84);
+    background: rgba(51, 136, 204, 0.61);
 }
 
 .client_area {
@@ -1039,7 +1039,7 @@ border: 1px solid #64A633;
 }
 #aboutme {
     padding: 60px 0;
-    background: #E9E9E9;
+    background: rgba(243, 239, 224, 0.58);
 }
 
 /* Contact
@@ -1082,11 +1082,12 @@ border: 1px solid #64A633;
 }
 
 .contact_section div i:hover {
-    color: #23527C;
+    color: #FFFFFF;
 }
 
 .contact_section div a:hover p {
     opacity: 1;
+    color: #FFFFFF;
 }
 
 .contact_block {
@@ -1281,7 +1282,7 @@ border: 1px solid #64A633;
 ---------------------------------*/
 
 .footer_wrapper {
-    background: #232323;
+    background: #434242;
 }
 
 .footer_bottom {
