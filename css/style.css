@@ -209,7 +209,11 @@ body {
 h2 {
     /*font-size: 38px;*/
     color: #fefeff;
+<<<<<<< HEAD
     font-family: 'helvetica', sans-serif;
+=======
+    font-family: 'Raleway', sans-serif;
+>>>>>>> d505149f40e2300c0d42757823c71e0f22fb36ba
     font-weight: normal;
     margin: 0px 0 25px 0;
     text-align: center;
@@ -226,8 +230,13 @@ h3 {
 
 h6 {
     font-size: 16px;
+<<<<<<< HEAD
     color: #ffffff;
     font-family: 'helvetica', sans-serif;
+=======
+    color: #727878;
+    font-family: 'Open Sans', sans-serif;
+>>>>>>> d505149f40e2300c0d42757823c71e0f22fb36ba
     font-weight: 400;
     text-align: center;
     margin: 0 0 60px 0;
