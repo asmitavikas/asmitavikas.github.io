@@ -480,7 +480,7 @@ a.read_more:hover {
 
 #skills {
     padding: 60px 0px;
-    background: rgba(51, 136, 204, 0.61);
+    background: #635555;
 }
 #skills h2{
   color: #fff;
@@ -635,9 +635,10 @@ a.contact_btn {
 }
 
 a.contact_btn:hover {
-    background: #ED5441;
-    color: #fff;
+    background: ##777;
+    color: #777;
 }
+
 
 .input-text {
     background: transparent;
@@ -747,7 +748,7 @@ img {
 
 #clients {
     padding: 60px 0px;
-    background: rgba(51, 136, 204, 0.61);
+    background: #635555;
 }
 
 .client_area {
@@ -1013,11 +1014,11 @@ margin-bottom: 5px;
 }
 
 .team_box ul li a.fa-twitter:hover {
-    color: #55acee;
+    color: #777;
 }
 
 .team_box ul li a.fa-facebook:hover {
-    color: #3b5998;
+    color: #777;
 }
 
 .team_box ul li a.fa-pinterest:hover {
@@ -1067,7 +1068,7 @@ border: 1px solid #64A633;
 
 .contact_section h2 {
     font-size: 40px;
-    color: #ffffff;
+    color: #ef733a;
     margin: 0 0 50px 0;
     text-transform: uppercase;
 }
@@ -1293,7 +1294,7 @@ border: 1px solid #64A633;
 ---------------------------------*/
 
 .footer_wrapper {
-    background: #434242;
+    background: #f8f6ed;
 }
 
 .footer_bottom {
